@@ -4,7 +4,7 @@
 
 > Este repositório foi dedicado exclusivamente para registrar o meu aprendizado com desenvolvimento backend em Java Core, utilizando como referência este site aqui: [roadmap.sh](https://roadmap.sh/java).
 
-> Disponibilizo o conteúdo abaixo para os interessados que desejam utilizar, adaptar ou modificar para fins de estudo.  
+> Disponibilizo o conteúdo para os interessados que desejam utilizar, adaptar ou modificar as aplicações para fins de estudo.  
 
 ---
 
