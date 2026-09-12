@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas utilizadas
+## 🛠️ Tecnologias & Ferramentas
 
 - **Linguagem:** Java 21 (LTS)
 - **Gerenciador de Dependências:** Maven
