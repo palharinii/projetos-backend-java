@@ -7,7 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="gerenciador-tarefas" />
+        <module name="jogo-adivinhar-numeros" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gerenciador-despesas" target="21" />
+      <module name="gerenciador-financas" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>
